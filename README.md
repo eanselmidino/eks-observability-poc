@@ -1,1 +1,0 @@
-# eks-observability-poc
